@@ -12,6 +12,7 @@
     "express": "^4.13.4",
     "mongoskin": "^2.1.0",
     "mongodb": "latest",
-    "request": "latest"
+    "request": "latest",
+    "multer": "latest"
   }
 }
