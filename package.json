@@ -10,9 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.4",
-    "mongoskin": "^2.1.0",
-    "mongodb": "latest",
-    "request": "latest",
+    "fs": "0.0.2",
+    "glob": "^7.0.3",
     "multer": "latest"
   }
 }

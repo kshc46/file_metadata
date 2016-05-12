@@ -4,7 +4,11 @@ body {
 }
 
 #simpleText {
-    margin-top:20px;
+    margin-top: 20px;
     color: white;
     font-family: 'Roboto Condensed', sans-serif;
+}
+
+#button {
+    background-color: #3385ff;
 }
